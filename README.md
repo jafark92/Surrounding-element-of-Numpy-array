@@ -18,7 +18,7 @@ Enter order of matrix: 3
 Output Numpy Array:\
 [7  8  9]\
 [12 13 14]\
-[17 18 19]\
+[17 18 19]
 
 
 Example:2
