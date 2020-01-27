@@ -12,7 +12,9 @@ Input Numpy Array:\
 20 21 22 23 24
 
 Enter element row number: 2
+
 Enter element column number: 3
+
 Enter order of matrix: 3
 
 Output Numpy Array:\
@@ -31,7 +33,9 @@ Input Numpy Array:\
 [20 21 22 23 24]
 
 Enter element row number: 0
+
 Enter element column number: 4
+
 Enter order of matrix: 5
 
 Output Numpy Array:\
